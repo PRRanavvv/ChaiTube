@@ -144,11 +144,16 @@ Open ''' http://localhost:3000 ''' in your browser.
 
 ## Usage
 
-### Search Videos: Type in the search bar to see real-time suggestions and results.  
-### Watch Videos: Click on a video to access the player, comments, and recommendations.  
-### Engage in Live Chat: Interact with the simulated chat on video pages.  
-### Save to Watch Later: Use the "Watch Later" button to save videos for future viewing.  
-### Explore Recommendations: Check the sidebar for personalized video suggestions.  
+### Search Videos:
+Type in the search bar to see real-time suggestions and results.  
+### Watch Videos:
+Click on a video to access the player, comments, and recommendations.  
+### Engage in Live Chat:
+Interact with the simulated chat on video pages.  
+### Save to Watch Later:
+Use the "Watch Later" button to save videos for future viewing.  
+### Explore Recommendations:
+Check the sidebar for personalized video suggestions.  
 
 ## Future Enhancements
 
