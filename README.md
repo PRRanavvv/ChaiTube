@@ -170,7 +170,7 @@ Enhance recommendations with machine learning algorithms.
  NamasteDev.com Offered resources and support throughout the project.
 
 
-** Community: ** Gratitude to the React and Redux communities for their extensive documentation and tutorials.
+### Community: Gratitude to the React and Redux communities for their extensive documentation and tutorials.
 
 ### Contributing
 I welcome contributions from the developer community! To contribute:  
