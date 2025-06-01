@@ -1,4 +1,5 @@
 # ChaiTube
+
 ChaiTube - A Comprehensive YouTube Clone
 Project Overview
 ChaiTube is an advanced YouTube clone, meticulously crafted from scratch to replicate and enhance the core functionalities of YouTube. This project showcases a deep understanding of modern frontend development, tackling complex features like real-time search, live chat simulation, personalized recommendations, and a responsive UI. Built as a learning journey, ChaiTube reflects real-world problem-solving in web development, focusing on scalable architecture, efficient state management, and seamless user experience.
@@ -181,3 +182,5 @@ License
 This project is licensed under the MIT License.
 Contact
 For inquiries or collaboration, reach out via GitHub or connect with me on LinkedIn.
+
+
