@@ -6,15 +6,15 @@
 ## Key Features
 
 ### Real-Time Search with Suggestions:
-~ Integrated a custom API to fetch dynamic search suggestions.
-~ Debounced search input to optimize API calls and improve performance.
-~ Displays suggestions in a dropdown with keyboard navigation support.
+~ Integrated a custom API to fetch dynamic search suggestions.  
+~ Debounced search input to optimize API calls and improve performance.  
+~ Displays suggestions in a dropdown with keyboard navigation support.  
 
 
 ### Live Chat Simulation:
-~ Simulated real-time chat with auto-generated messages using a custom algorithm.
-~ Messages appear at varying intervals to mimic real user interaction.
-~ Chat window supports scrolling and message timestamps.
+~ Simulated real-time chat with auto-generated messages using a custom algorithm.  
+~ Messages appear at varying intervals to mimic real user interaction.  
+~ Chat window supports scrolling and message timestamps.  
 
 
 ### Personalized Video Recommendations:
