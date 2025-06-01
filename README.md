@@ -18,60 +18,60 @@
 
 
 ### Personalized Video Recommendations:
-~ Built an algorithm to recommend videos based on the user’s viewing history.
-~ Tracks user interactions (watched videos) to generate relevant suggestions.
-~ Recommendations update dynamically as the user engages with content.
+~ Built an algorithm to recommend videos based on the user’s viewing history.  
+~ Tracks user interactions (watched videos) to generate relevant suggestions.  
+~ Recommendations update dynamically as the user engages with content.  
 
 
 ### Watch Later Functionality:
-~ Allows users to save videos to a "Watch Later" list with a single click.
-~ Persists the list in local storage for session continuity.
-~ Users can remove videos from the list with an intuitive UI.
+~ Allows users to save videos to a "Watch Later" list with a single click.  
+~ Persists the list in local storage for session continuity.  
+~ Users can remove videos from the list with an intuitive UI.  
 
 
 ### Comment Sections:
-~ Fully functional comment system for user engagement.
-~ Supports posting, viewing, and deleting comments.
-~ Includes timestamps and user avatars for authenticity.
+~ Fully functional comment system for user engagement.  
+~ Supports posting, viewing, and deleting comments.  
+~ Includes timestamps and user avatars for authenticity.  
 
 
 ### Responsive Design:
-~ Gradient-based styling for a modern, visually appealing look.
-~ Fully responsive layout, optimized for mobile, tablet, and desktop devices.
-~ Smooth transitions and hover effects for enhanced UX.
+~ Gradient-based styling for a modern, visually appealing look.  
+~ Fully responsive layout, optimized for mobile, tablet, and desktop devices.  
+~ Smooth transitions and hover effects for enhanced UX.  
 
 
 
 ## Technical Stack
 
 ### React.js (v18):
-Leveraged Hooks (useState, useEffect, useMemo, etc.) for efficient state and lifecycle management.
-Used Function Components for a modular and maintainable codebase.
-Implemented lazy loading for components to improve performance.
+Leveraged Hooks (useState, useEffect, useMemo, etc.) for efficient state and lifecycle management.  
+Used Function Components for a modular and maintainable codebase.  
+Implemented lazy loading for components to improve performance.  
 
 
 ### Redux (with Redux Toolkit):
-Centralized state management for search, video data, and user preferences.
-Sliced state for better organization (e.g., videoSlice, userSlice).
-Async thunks for handling API calls and side effects.
+Centralized state management for search, video data, and user preferences.  
+Sliced state for better organization (e.g., videoSlice, userSlice).  
+Async thunks for handling API calls and side effects.  
 
 
 ### React Router (v6):
-Enabled seamless navigation with dynamic routes (e.g., /watch/:videoId).
-Nested routes for video pages, user profiles, and search results.
-Programmatic navigation for redirecting users after actions.
+Enabled seamless navigation with dynamic routes (e.g., /watch/:videoId).  
+Nested routes for video pages, user profiles, and search results.  
+Programmatic navigation for redirecting users after actions.  
 
 
 ### Custom API Integration:
-Integrated a custom API for search suggestions and video metadata.
-Handled API responses with error boundaries and loading states.
-Cached API responses using Redux to reduce redundant calls.
+Integrated a custom API for search suggestions and video metadata.  
+Handled API responses with error boundaries and loading states.  
+Cached API responses using Redux to reduce redundant calls.  
 
 
 ### CSS with Gradient Styling:
-Custom gradient backgrounds for a sleek, modern aesthetic.
-Flexbox and CSS Grid for responsive layouts.
-Media queries to ensure compatibility across devices.
+Custom gradient backgrounds for a sleek, modern aesthetic.  
+Flexbox and CSS Grid for responsive layouts.  
+Media queries to ensure compatibility across devices.  
 
 
 
