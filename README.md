@@ -121,24 +121,25 @@ Solution: Used CSS Grid for layout and tested extensively on multiple screen siz
 
 ## Installation and Setup
 
-Clone the Repository:git clone ''' https://github.com/your-username/chaitube.git '''  
+Clone the Repository:git clone https://github.com/your-username/chaitube.git  
 
 
-Install Dependencies : ''' npm install '''
+Install Dependencies : npm install  
 
 
-Set Up Environment Variables:
+Set Up Environment Variables:  
 Create a .env file in the root directory.  
-Add your API key for search suggestions:REACT_APP_API_KEY=your_api_key_here  
+
+Add your API key for search suggestions : REACT_APP_API_KEY = your_api_key_here  
 
 
 
 
-Start the Development Server : ''' npm start '''
+Start the Development Server : npm start  
 
 
 Access the App:
-Open ''' http://localhost:3000 ''' in your browser.
+Open http://localhost:3000 in your browser.
 
 
 
@@ -165,8 +166,8 @@ Enhance recommendations with machine learning algorithms.
 ## Acknowledgements
 
 ### Mentors:
-** Akshay Saini ** Provided invaluable guidance on React best practices.  
-** NamasteDev.com ** Offered resources and support throughout the project.
+ Akshay Saini Provided invaluable guidance on React best practices.  
+ NamasteDev.com Offered resources and support throughout the project.
 
 
 ** Community: ** Gratitude to the React and Redux communities for their extensive documentation and tutorials.
